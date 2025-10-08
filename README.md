@@ -1,6 +1,6 @@
 ### Hi there, I'm Wolfgang 👋
 
-With a MSc in Motorsport Engineering and BSc in Mechanical Engineering, I am passionate about Simulation and Performance Engineering. I specialise in developing high-fidelity vehicle dynamics simulations and advanced control systems to optimise race car performance , leveraging a strong foundation in multi-body system dynamics , model predictive control , and a data-driven approach.
+With an MSc in Motorsport Engineering and a BSc in Mechanical Engineering, I am passionate about simulation and performance engineering. I have a strong foundation in developing high-fidelity vehicle dynamics simulations and advanced control systems to optimize race car performance. This includes work in multi-body system dynamics, model predictive control, and applying a data-driven approach to engineering challenges.
 
 ---
 
