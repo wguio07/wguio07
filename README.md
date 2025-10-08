@@ -15,7 +15,6 @@ With a BSc in Mechanical Engineering and an MSc in Motorsport Engineering, I am 
 
 ### 🚀 My Projects
 
-*Here you will add links to your project repositories once we create them.*
 
 * **Dissertation:** MPC Driver Model for Autonomous Path-Following 
 * **F1 Lap-Time Optimisation (2026 Regulations)** 
