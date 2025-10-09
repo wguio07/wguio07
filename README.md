@@ -16,11 +16,11 @@ With an MSc in Motorsport Engineering and a BSc in Mechanical Engineering, I am 
 ###  My Projects
 
 
-* **Dissertation:** MPC Driver Model for Autonomous Path-Following 
+* **Driver Model for Autonomous Path-Following MPC**   
 * **F1 Lap-Time Optimisation (2026 Regulations)** 
 * **Vehicle Dynamics Modelling & Analysis** 
-* **Personal Project:** Lap-Time Simulator 
-* **Undergraduate Project:** Propeller Pendulum Control System
+* **Personal Projects:** Lap-Time Simulator, Tyre Visualisation Tool, Fuel & Energy Consumption Simulator.  
+* **Undergraduate Project:** Propeller Pendulum Control System, Biodegradable Composite Development.
 
 ---
 
