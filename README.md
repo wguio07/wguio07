@@ -5,7 +5,7 @@ With an MSc in Motorsport Engineering and a BSc in Mechanical Engineering, I am 
 <br />
 
 <p align="center">
-  <img src="photo.jpeg" alt="Wolfgang Guio" width="300" />
+  <img src="photo.jpeg" alt="Wolfgang Guio" width="1000" />
 </p>
 
 ---
