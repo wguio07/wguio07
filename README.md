@@ -18,7 +18,7 @@ With an MSc in Motorsport Engineering and a BSc in Mechanical Engineering, I am 
 
 * [**Driver Model for Autonomous Path-Following MPC**](https://github.com/wguio07/MPC-Autonomous-Vehicle-Lateral-Control)   
 * [**F1 Lap-Time Optimisation (2026 Regulations)** ](https://github.com/wguio07/F1-2026-Lap-Time-Optimisation)
-* **Vehicle Dynamics Modelling & Analysis** 
+* [**Vehicle Dynamics Modelling & Analysis** ](https://github.com/wguio07/Vehicle-Dynamics-Modelling-Analysis)
 * **Personal Projects:** Lap-Time Simulator, Tyre Visualisation Tool, Fuel & Energy Consumption Simulator.  
 * **Undergraduate Project:** Propeller Pendulum Control System, Biodegradable Composite Development.
 
