@@ -27,4 +27,5 @@ With an MSc in Motorsport Engineering and a BSc in Mechanical Engineering, I am 
 ###  How to Reach Me
 
 * **Email:** [ukwolfangguio@gmail.com](mailto:ukwolfangguio@gmail.com)
+* **LinkedIn:** [linkedin.com/in/wolfangguio/](https://www.linkedin.com/in/wolfangguio/)
   
