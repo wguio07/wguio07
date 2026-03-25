@@ -1,10 +1,3 @@
-# Wolfgang Guio
-
-**MSc Motorsport Engineering — Distinction · Oxford Brookes University**
-Oxford, UK · Open to roles in performance engineering, simulation, and technical finance in motorsport.
-
----
-
 ## About me
 
 I'm a mechanical and motorsport engineer with experience across both the technical and analytical sides of professional racing. My background spans vehicle dynamics simulation, control systems, hands-on F1 team operations at Williams Racing, technical procurement, and financial data analysis — giving me a broad toolkit that adapts to engineering, performance, and cost-focused roles.
