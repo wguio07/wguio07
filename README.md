@@ -53,8 +53,9 @@ Designed a BI dashboard to report maintenance KPIs. Applied regression analysis 
 
 ## Education
 
-**Oxford Brookes University** — MSc Motorsport Engineering, Distinction *(2024–25)*
-**Universidad de los Andes** — BSc Mechanical Engineering *(2014–18)*
+**Oxford Brookes University** — MSc Motorsport Engineering, Distinction **
+
+**Universidad de los Andes** — BSc Mechanical Engineering **
 Academic scholarship — top 1% in national standard test (ICFES Saber 11)
 
 ---
