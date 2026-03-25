@@ -1,8 +1,7 @@
 ## About me
 
-I'm a mechanical and motorsport engineer with experience across both the technical and analytical sides of professional racing. My background spans vehicle dynamics simulation, control systems, hands-on F1 team operations at Williams Racing, technical procurement, and financial data analysis — giving me a broad toolkit that adapts to engineering, performance, and cost-focused roles.
-
-I'm drawn to problems where rigorous analysis drives real decisions — whether that's optimising a lap time model, attributing a cost variance to a specific manufacturing event, or building a dashboard that makes complex data immediately readable.
+I'm a mechanical and motorsport engineer with experience across both the technical and analytical sides of professional racing. My background spans vehicle dynamics simulation, control systems, hands-on F1 team operations at Williams Racing, technical procurement, and financial data analysis.
+I'm drawn to problems where rigorous analysis drives real decisions, whether that's optimising a lap time model, attributing a cost variance to a specific manufacturing event, or building a dashboard that makes complex data immediately readable.
 
 ---
 
