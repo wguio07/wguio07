@@ -22,7 +22,7 @@ Spanish (native) · English (fluent — IELTS C1)
 
 ### [F1 Cost Cap Variance Tracker — OBU Autonomous Racing](https://github.com/wguio07/f1-cost-cap-tracker)
 Formula SAE budget compliance workbook built on the FIA Financial Regulations framework. 28 sub-component line items, auto-calculated RAG status, root cause analysis, and corrective actions. Formula-driven Excel model with an interactive live dashboard.
-→ [View live dashboard](https://wguio07.github.io/f1-cost-cap-tracker/dashboard.html)
+
 
 ### [MPC Driver Model — Autonomous Path Following](https://github.com/wguio07/MPC-Autonomous-Vehicle-Lateral-Control)
 Model Predictive Control driver model developed in Python and MATLAB. Validated against ISO standards with structured data pipelines correlating simulation outputs to expected track performance.
