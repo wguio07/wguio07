@@ -31,7 +31,7 @@ I'm a mechanical and motorsport engineer with experience across both the technic
 ## Experience
 
 **Williams Racing** — Stores Technician *(Feb–Mar 2026, Oxford)*
-Component fulfilment inside an operating F1 team. Direct exposure to inventory cost structures, part criticality, ERP reconciliation, and production flow.
+Component fulfilment inside an operating F1 team. Direct exposure to inventory structures, ERP reconciliation, and production flow.
 
 **Oxford Brookes Racing (Autonomous)** — Simulations Engineer *(2024–25)*
 Built Unity validation scenarios and analysed telemetry and RMSE metrics to drive performance improvements across cross-functional partner teams.
@@ -48,7 +48,7 @@ Designed a BI dashboard to report maintenance KPIs. Applied regression analysis 
 
 **Oxford Brookes University** — MSc Motorsport Engineering, Distinction
 
-**Universidad de los Andes** — BSc Mechanical Engineering · Academic scholarship — top 1% in national standard test (ICFES Saber 11)
+**Universidad de los Andes** — BSc Mechanical Engineering · Academic scholarship.
 
 ---
 
