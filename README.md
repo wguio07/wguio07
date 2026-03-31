@@ -24,7 +24,15 @@ I'm a mechanical engineer with a master's in motorsport engineering, specialisin
 | [**F1 Lap Time Optimisation — 2026 Regulations**](https://github.com/wguio07/F1-2026-Lap-Time-Optimisation) | AVL VSM | Full simulation of a 2026-spec F1 car at Red Bull Ring analysing drag, traction, and energy trade-offs under regulatory constraints. |
 | [**Vehicle Dynamics Modelling & Analysis**](https://github.com/wguio07/Vehicle-Dynamics-Modelling-Analysis) | MATLAB/Simulink · MSC ADAMS | Multi-body dynamics and state-space modelling for race car performance; sensitivity analysis for structural performance and ride comfort. |
 
-> 💡 *Selected plots from each project are available in the individual repositories.*
+---
+
+## Visuals
+
+| MGU-K Thermal MPC — Heat Loss Dashboard | F1 2026 Lap Time Optimisation — G-G Diagram |
+|:---:|:---:|
+| [![Heat Loss Dashboard](https://raw.githubusercontent.com/wguio07/mguk-thermal-mpc/main/plots/10_lap_heat_loss_dashboard.png)](https://github.com/wguio07/mguk-thermal-mpc) | [![G-G Diagram](https://raw.githubusercontent.com/wguio07/F1-2026-Lap-Time-Optimisation/main/visuals/G-G_Diagram.png)](https://github.com/wguio07/F1-2026-Lap-Time-Optimisation) |
+|   **MPC Autonomous Vehicle — Lateral Control** | **Vehicle Dynamics Modelling — Simulink** |
+| [![Lateral Control Animation](https://raw.githubusercontent.com/wguio07/MPC-Autonomous-Vehicle-Lateral-Control/main/media/Animation_1.gif)](https://github.com/wguio07/MPC-Autonomous-Vehicle-Lateral-Control)  | [![Simulink Model](https://raw.githubusercontent.com/wguio07/Vehicle-Dynamics-Modelling-Analysis/main/media/Simulink.png)](https://github.com/wguio07/Vehicle-Dynamics-Modelling-Analysis) |
 
 ---
 
@@ -54,4 +62,4 @@ Designed a BI dashboard to report maintenance KPIs. Applied regression analysis 
 
 ## Contact
 
-ukwolfangguio@gmail.com · [LinkedIn](https://linkedin.com) · Oxford, UK
+ukwolfangguio@gmail.com · [LinkedIn](https://www.linkedin.com/in/wguio07/) · Oxford, UK
