@@ -1,6 +1,6 @@
 ## About me
 
-I'm a mechanical and motorsport engineer with experience across both the technical and analytical sides of professional racing. My background spans vehicle dynamics simulation, control systems, hands-on F1 team operations at Williams Racing, technical procurement, and financial data analysis. I'm drawn to problems where rigorous analysis drives real decisions — whether that's optimising a lap time model, attributing a cost variance to a specific manufacturing event, or building a dashboard that makes complex data immediately readable.
+I'm a mechanical engineer with a master's in motorsport engineering, specialising in vehicle dynamics, powertrain simulation, and model-based control. My work sits at the boundary between physics and computation — building and validating models that translate engineering parameters into measurable lap performance. I've developed MPC controllers for autonomous path-following and ERS thermal management, run full-car lap time simulations under the 2026 regulations in AVL VSM, and modelled multi-body dynamics in MATLAB/Simulink and MSC ADAMS. I work best when the problem demands that the physics and the numbers agree.
 
 ---
 
