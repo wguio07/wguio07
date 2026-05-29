@@ -1,65 +1,31 @@
-## About me
+### Hi there, I'm Wolfgang
 
-I'm a mechanical engineer with a master's in motorsport engineering, specialising in vehicle dynamics, powertrain simulation, and model-based control. My work sits at the boundary between physics and computation — building and validating models that translate engineering parameters into measurable lap performance. I've developed MPC controllers for autonomous path-following and ERS thermal management, run full-car lap time simulations under the 2026 regulations in AVL VSM, and modelled multi-body dynamics in MATLAB/Simulink and MSC ADAMS. I work best when the problem demands that the physics and the numbers agree.
-
----
-
-## Skills
-
-**Engineering & simulation** &nbsp; MATLAB/Simulink · MSC ADAMS · AVL VSM · Vehicle dynamics · MPC & PID control · State-space modelling · OSQP (convex QP) · Siemens NX · Fusion 360 · Femap · CFRP manufacturing processes · Lap time simulation · FastF1
-
-**Data & analysis** &nbsp; Python (Pandas, NumPy, Matplotlib, SciPy) · Regression analysis · BI dashboards · Excel financial modelling · Root cause analysis · KPI reporting · ERP systems
-
-**Languages** &nbsp; Spanish (native) · English (fluent — IELTS C1)
+With an MSc in Motorsport Engineering and a BSc in Mechanical Engineering, I am passionate about simulation and performance engineering. I have a strong foundation in developing high-fidelity vehicle dynamics simulations, advanced control systems, and aerodynamic optimisation to maximise race car performance. This includes work in multi-body system dynamics, model predictive control, CFD-driven aero development, and applying a data-driven approach to engineering challenges.
 
 ---
 
-## Projects
+### Technical Skills
 
-| Project | Tools | Key Result |
-|---|---|---|
-| [**MGU-K Thermal-Constrained ERS Optimiser**](https://github.com/wguio07/mguk-thermal-mpc) | Python · OSQP · MPC · FastF1 | T_magnet held at 116.1°C — 23.9°C margin vs 140°C demagnetisation limit over a full Monza lap (84 s, 1,680 MPC solves). Fixed-strategy baseline reached 131.6°C. |
-| [**F1 Cost Cap Variance Tracker**](https://github.com/wguio07/F1-cost-cap-tracker) | Excel · HTML · FIA Financial Regulations | 28-line-item RAG compliance workbook with auto-calculated variance flags, root cause analysis, and corrective action log. |
-| [**MPC Driver Model — Autonomous Path Following**](https://github.com/wguio07/MPC-Autonomous-Vehicle-Lateral-Control) | Python · MATLAB · Bicycle model | Lateral MPC validated against ISO standards; structured data pipelines correlating simulation outputs to expected track performance. |
-| [**F1 Lap Time Optimisation — 2026 Regulations**](https://github.com/wguio07/F1-2026-Lap-Time-Optimisation) | AVL VSM | Full simulation of a 2026-spec F1 car at Red Bull Ring analysing drag, traction, and energy trade-offs under regulatory constraints. |
-| [**Vehicle Dynamics Modelling & Analysis**](https://github.com/wguio07/Vehicle-Dynamics-Modelling-Analysis) | MATLAB/Simulink · MSC ADAMS | Multi-body dynamics and state-space modelling for race car performance; sensitivity analysis for structural performance and ride comfort. |
+* **Vehicle Dynamics & Simulation:** Proficient in MATLAB/Simulink (Vehicle Dynamics Blockset), MSC ADAMS, AVL VSMT™ RACE, Control Systems Theory (PID, MPC), State-Space Modelling.
+* **Aerodynamics & CFD:** STAR-CCM+ (RANS, mesh independence, post-processing), SolidWorks (CAD & GT3 compliance modelling), external vehicle aerodynamics.
+* **CAD/FEA:** Competent at Siemens NX, Fusion 360, Femap.
+* **Programming & Data Analysis:** Skilled in Python (NumPy/Matplotlib/Scipy), Business Intelligence (BI) Reporting, Data Visualisation.
+* **Languages:** Spanish (Native), English (Fluent).
 
 ---
 
-## Visuals
+### My Projects
 
-| MGU-K Thermal MPC — Heat Loss Dashboard | F1 2026 Lap Time Optimisation — G-G Diagram |
-|:---:|:---:|
-| [![Heat Loss Dashboard](https://raw.githubusercontent.com/wguio07/mguk-thermal-mpc/main/plots/10_lap_heat_loss_dashboard.png)](https://github.com/wguio07/mguk-thermal-mpc) | [![G-G Diagram](https://raw.githubusercontent.com/wguio07/F1-2026-Lap-Time-Optimisation/main/visuals/G-G_Diagram.png)](https://github.com/wguio07/F1-2026-Lap-Time-Optimisation) |
-|   **MPC Autonomous Vehicle — Lateral Control** | **Vehicle Dynamics Modelling — Simulink** |
-| [![Lateral Control Animation](https://raw.githubusercontent.com/wguio07/MPC-Autonomous-Vehicle-Lateral-Control/main/media/Animation_1.gif)](https://github.com/wguio07/MPC-Autonomous-Vehicle-Lateral-Control)  | [![Simulink Model](https://raw.githubusercontent.com/wguio07/Vehicle-Dynamics-Modelling-Analysis/main/media/Simulink.png)](https://github.com/wguio07/Vehicle-Dynamics-Modelling-Analysis) |
-
----
-
-## Experience
-
-**Williams Racing** — Stores Technician *(Feb–Mar 2026, Oxford)*
-Component fulfilment inside an operating F1 team. Direct exposure to inventory structures, ERP reconciliation, and production flow.
-
-**Oxford Brookes Racing (Autonomous)** — Simulations Engineer *(2024–25)*
-Built Unity validation scenarios and analysed telemetry and RMSE metrics to drive performance improvements across cross-functional partner teams.
-
-**Veolia** — Technical Procurement *(2021, Bogotá)*
-Managed procurement of heavy machinery and vehicles. Evaluated supplier quotes against engineering specifications and budget constraints, negotiating to reduce procurement costs.
-
-**Coca-Cola FEMSA** — Maintenance Analyst Intern *(2018–19, Bogotá)*
-Designed a BI dashboard to report maintenance KPIs. Applied regression analysis to forecast instrument drift and optimise recalibration scheduling, reducing unplanned downtime costs.
+* [**GT3 DrivAer Fastback — Aerodynamic Optimisation Using CFD**](https://github.com/wguio07/GT3-DrivAer-CFD-Aerodynamic-Optimisation)
+* [**Driver Model for Autonomous Path-Following MPC**](https://github.com/wguio07/MPC-Autonomous-Vehicle-Lateral-Control)
+* [**F1 Lap-Time Optimisation (2026 Regulations)**](https://github.com/wguio07/F1-2026-Lap-Time-Optimisation)
+* [**Vehicle Dynamics Modelling & Analysis**](https://github.com/wguio07/Vehicle-Dynamics-Modelling-Analysis)
+* **Personal Projects:** Lap-Time Simulator, Tyre Visualisation Tool, Fuel & Energy Consumption Simulator.
+* **Undergraduate Project:** Propeller Pendulum Control System, Biodegradable Composite Development.
 
 ---
 
-## Education
+### How to Reach Me
 
-**Oxford Brookes University** — MSc Motorsport Engineering, Distinction
-
-**Universidad de los Andes** — BSc Mechanical Engineering · Academic scholarship.
-
----
-
-## Contact
-
-ukwolfangguio@gmail.com · [LinkedIn](https://www.linkedin.com/in/wguio07/) · Oxford, UK
+* **Email:** [ukwolfangguio@gmail.com](mailto:ukwolfangguio@gmail.com)
+* **LinkedIn:** [linkedin.com/in/wolfangguio/](https://www.linkedin.com/in/wolfangguio/)
