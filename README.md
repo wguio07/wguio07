@@ -1,14 +1,14 @@
 ## About me
 
-I'm a mechanical engineer with a master's in motorsport engineering, specialising in vehicle dynamics, powertrain simulation, and model-based control. My work sits at the boundary between physics and computation — building and validating models that translate engineering parameters into measurable lap performance. I've developed MPC controllers for autonomous path-following and ERS thermal management, run full-car lap time simulations under the 2026 regulations in AVL VSM, and modelled multi-body dynamics in MATLAB/Simulink and MSC ADAMS. I work best when the problem demands that the physics and the numbers agree.
+I'm a mechanical engineer with a master's in motorsport engineering, specialising in vehicle dynamics, simulations, and model-based control. My work sits at the boundary between physics and computation — building and validating models that translate engineering parameters into measurable lap performance. I've developed MPC controllers for autonomous path-following and ERS thermal management, run full-car lap time simulations under the 2026 regulations in AVL VSM, and modelled multi-body dynamics in MATLAB/Simulink and MSC ADAMS. I work best when the problem demands that the physics and the numbers agree.
 
 ---
 
 ## Skills
 
-**Engineering & simulation** &nbsp; MATLAB/Simulink · MSC ADAMS · AVL VSM · Vehicle dynamics · MPC & PID control · State-space modelling · OSQP (convex QP) · Siemens NX · Fusion 360 · Femap · CFRP manufacturing processes · Lap time simulation · FastF1
+**Engineering & simulation** &nbsp; MATLAB/Simulink · MSC ADAMS · AVL VSM · Vehicle dynamics · MPC & PID control · State-space modelling · OSQP (convex QP) · Siemens NX · Inventor · Femap · CFRP manufacturing processes · Lap time simulation · STAR-CCM+
 
-**Data & analysis** &nbsp; Python (Pandas, NumPy, Matplotlib, SciPy) · Regression analysis · BI dashboards · Excel financial modelling · Root cause analysis · KPI reporting · ERP systems
+**Data & analysis** &nbsp; Python (Pandas, NumPy, Matplotlib, SciPy) · MoTeC i2 · Wintax4 · RaceCon · VBox · BI dashboards · Excel financial modelling · Root cause analysis · KPI reporting · ERP systems · FastF1
 
 **Languages** &nbsp; Spanish (native) · English (fluent — IELTS C1)
 
@@ -41,7 +41,7 @@ I'm a mechanical engineer with a master's in motorsport engineering, specialisin
 
 ## Experience
 
-**Williams Racing** — Stores Technician *(Feb–Mar 2026, Oxford)*
+**Williams Racing** — Stock Controller *(Feb–Mar 2026, Oxford)*
 Component fulfilment inside an operating F1 team. Direct exposure to inventory structures, ERP reconciliation, and production flow.
 
 **Oxford Brookes Racing (Autonomous)** — Simulations Engineer *(2024–25)*
