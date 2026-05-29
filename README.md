@@ -23,6 +23,7 @@ I'm a mechanical engineer with a master's in motorsport engineering, specialisin
 | [**MPC Driver Model — Autonomous Path Following**](https://github.com/wguio07/MPC-Autonomous-Vehicle-Lateral-Control) | Python · MATLAB · Bicycle model | Lateral MPC validated against ISO standards; structured data pipelines correlating simulation outputs to expected track performance. |
 | [**F1 Lap Time Optimisation — 2026 Regulations**](https://github.com/wguio07/F1-2026-Lap-Time-Optimisation) | AVL VSM | Full simulation of a 2026-spec F1 car at Red Bull Ring analysing drag, traction, and energy trade-offs under regulatory constraints. |
 | [**Vehicle Dynamics Modelling & Analysis**](https://github.com/wguio07/Vehicle-Dynamics-Modelling-Analysis) | MATLAB/Simulink · MSC ADAMS | Multi-body dynamics and state-space modelling for race car performance; sensitivity analysis for structural performance and ride comfort. |
+| [**GT3 DrivAer Fastback — Aerodynamic Optimisation (CFD)**](https://github.com/wguio07/GT3-DrivAer-CFD-Aerodynamic-Optimisation) | STAR-CCM+ · SolidWorks · RANS k-ε | 20% Cl/Cd improvement over baseline; rear wing generating ~200 N downforce in compliance with GT3/LMGT3 regulations. Validated against experimental data within 2.35%. |
 
 ---
 
@@ -31,8 +32,10 @@ I'm a mechanical engineer with a master's in motorsport engineering, specialisin
 | MGU-K Thermal MPC — Heat Loss Dashboard | F1 2026 Lap Time Optimisation — G-G Diagram |
 |:---:|:---:|
 | [![Heat Loss Dashboard](https://raw.githubusercontent.com/wguio07/mguk-thermal-mpc/main/plots/10_lap_heat_loss_dashboard.png)](https://github.com/wguio07/mguk-thermal-mpc) | [![G-G Diagram](https://raw.githubusercontent.com/wguio07/F1-2026-Lap-Time-Optimisation/main/visuals/G-G_Diagram.png)](https://github.com/wguio07/F1-2026-Lap-Time-Optimisation) |
-|   **MPC Autonomous Vehicle — Lateral Control** | **Vehicle Dynamics Modelling — Simulink** |
-| [![Lateral Control Animation](https://raw.githubusercontent.com/wguio07/MPC-Autonomous-Vehicle-Lateral-Control/main/media/Animation_1.gif)](https://github.com/wguio07/MPC-Autonomous-Vehicle-Lateral-Control)  | [![Simulink Model](https://raw.githubusercontent.com/wguio07/Vehicle-Dynamics-Modelling-Analysis/main/media/Simulink.png)](https://github.com/wguio07/Vehicle-Dynamics-Modelling-Analysis) |
+| **MPC Autonomous Vehicle — Lateral Control** | **Vehicle Dynamics Modelling — Simulink** |
+| [![Lateral Control Animation](https://raw.githubusercontent.com/wguio07/MPC-Autonomous-Vehicle-Lateral-Control/main/media/Animation_1.gif)](https://github.com/wguio07/MPC-Autonomous-Vehicle-Lateral-Control) | [![Simulink Model](https://raw.githubusercontent.com/wguio07/Vehicle-Dynamics-Modelling-Analysis/main/media/Simulink.png)](https://github.com/wguio07/Vehicle-Dynamics-Modelling-Analysis) |
+| **GT3 DrivAer Fastback — CFD Aerodynamic Optimisation** | |
+| [![GT3 CFD](https://raw.githubusercontent.com/wguio07/GT3-DrivAer-CFD-Aerodynamic-Optimisation/main/visuals/fig05_baseline_pressure_velocity.png)](https://github.com/wguio07/GT3-DrivAer-CFD-Aerodynamic-Optimisation) | |
 
 ---
 
