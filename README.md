@@ -14,7 +14,7 @@ I'm a mechanical engineer with a master's in motorsport engineering, specialisin
 
 <p align="center">
   <sub><b>GT Cup, July 2026 — Mtech, KTM X-Bow GT2 #117.</b> P4 in Race 1. Race win in Race 2.<br>
-  My telemetry analysis fed the balance changes between the two.</sub>
+  
 </p>
 
 ---
