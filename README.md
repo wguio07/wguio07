@@ -21,7 +21,7 @@ I'm a mechanical engineer with a master's in motorsport engineering, specialisin
 
 ## Skills
 
-**Engineering & simulation** &nbsp; MATLAB/Simulink · MSC ADAMS · AVL VSM · Vehicle dynamics · MPC & PID control · State-space modelling · OSQP (convex QP) · Lap time simulation · STAR-CCM+ · Siemens NX · Inventor · Femap · CFRP manufacturing processes
+**Engineering & simulation** &nbsp; MATLAB/Simulink · MSC ADAMS · AVL VSM · Vehicle dynamics · MPC & PID control · State-space modelling · OSQP (convex QP) · Lap time simulation · STAR-CCM+ · LS-DYNA (explicit FEA) · Composite crashworthiness · Siemens NX · Inventor · Femap · CFRP manufacturing processes
 
 **Data & telemetry** &nbsp; Python (Pandas, NumPy, SciPy, Matplotlib, FastF1) · MoTeC M1 ECU · MoTeC i2 · Wintax4 · RaceCon · VBox · Git · XGBoost · scikit-learn · SHAP · BI dashboards · Excel financial modelling · Root cause analysis · KPI reporting · ERP systems
 
@@ -39,6 +39,7 @@ I'm a mechanical engineer with a master's in motorsport engineering, specialisin
 | [**F1 Lap Time Optimisation — 2026 Regulations**](https://github.com/wguio07/F1-2026-Lap-Time-Optimisation) | AVL VSM | Full simulation of a 2026-spec F1 car at Red Bull Ring analysing drag, traction, and energy trade-offs under regulatory constraints. |
 | [**Vehicle Dynamics Modelling & Analysis**](https://github.com/wguio07/Vehicle-Dynamics-Modelling-Analysis) | MATLAB/Simulink · MSC ADAMS | Multi-body dynamics and state-space modelling for race car performance; sensitivity analysis for structural performance and ride comfort. |
 | [**GT3 DrivAer Fastback — Aerodynamic Optimisation (CFD)**](https://github.com/wguio07/GT3-DrivAer-CFD-Aerodynamic-Optimisation) | STAR-CCM+ · SolidWorks · RANS k-ε | 20% Cl/Cd improvement over baseline; rear wing generating ~200 N downforce in compliance with GT3/LMGT3 regulations. Validated against experimental data within 2.35%. |
+| [**Composite Enclosure Impact & Energy Attenuator Design**](https://github.com/wguio07/Composite-Enclosure-Impact-Attenuator-FEA) | LS-DYNA · Simcenter Femap · MAT_054 Chang–Chang | Explicit FEA of a 1,300 kg, 13.86 m/s (125 kJ) impact on an AS4/PEEK enclosure. Six Kevlar/carbon attenuator layups compared: 21–32% deformation reduction and up to 56% peak-stress reduction; element-formulation study to check result sensitivity. |
 | [**F1 Cost Cap Variance Tracker**](https://github.com/wguio07/F1-cost-cap-tracker) | Excel · HTML · FIA Financial Regulations | 28-line-item RAG compliance workbook with auto-calculated variance flags, root cause analysis, and corrective action log. |
 | **F1 Tyre Degradation Prediction — ML Pipeline** | Python · XGBoost · scikit-learn · SHAP | Per-lap degradation predicted from ~50K laps of 2023 telemetry using leakage-safe features and time-series cross-validation. Generalisation validated on a held-out 2024 season, behaviour interpreted with SHAP. |
 
@@ -51,8 +52,8 @@ I'm a mechanical engineer with a master's in motorsport engineering, specialisin
 | [![Heat Loss Dashboard](https://raw.githubusercontent.com/wguio07/mguk-thermal-mpc/main/plots/10_lap_heat_loss_dashboard.png)](https://github.com/wguio07/mguk-thermal-mpc) | [![G-G Diagram](https://raw.githubusercontent.com/wguio07/F1-2026-Lap-Time-Optimisation/main/visuals/G-G_Diagram.png)](https://github.com/wguio07/F1-2026-Lap-Time-Optimisation) |
 | **MPC Autonomous Vehicle — Lateral Control** | **Vehicle Dynamics Modelling — Simulink** |
 | [![Lateral Control Animation](https://raw.githubusercontent.com/wguio07/MPC-Autonomous-Vehicle-Lateral-Control/main/media/Animation_1.gif)](https://github.com/wguio07/MPC-Autonomous-Vehicle-Lateral-Control) | [![Simulink Model](https://raw.githubusercontent.com/wguio07/Vehicle-Dynamics-Modelling-Analysis/main/media/Simulink.png)](https://github.com/wguio07/Vehicle-Dynamics-Modelling-Analysis) |
-| **GT3 DrivAer Fastback — CFD Aerodynamic Optimisation** | |
-| [![GT3 CFD](https://raw.githubusercontent.com/wguio07/GT3-DrivAer-CFD-Aerodynamic-Optimisation/main/visuals/fig05_baseline_pressure_velocity.png)](https://github.com/wguio07/GT3-DrivAer-CFD-Aerodynamic-Optimisation) | |
+| **GT3 DrivAer Fastback — CFD Aerodynamic Optimisation** | **Composite Enclosure Impact — LS-DYNA Explicit FEA** |
+| [![GT3 CFD](https://raw.githubusercontent.com/wguio07/GT3-DrivAer-CFD-Aerodynamic-Optimisation/main/visuals/fig05_baseline_pressure_velocity.png)](https://github.com/wguio07/GT3-DrivAer-CFD-Aerodynamic-Optimisation) | [![Composite Impact](https://raw.githubusercontent.com/wguio07/Composite-Enclosure-Impact-Attenuator-FEA/main/figures/03_baseline_front_impact.jpg)](https://github.com/wguio07/Composite-Enclosure-Impact-Attenuator-FEA) |
 
 ---
 
